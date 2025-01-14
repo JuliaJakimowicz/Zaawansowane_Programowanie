@@ -40,7 +40,8 @@ class Brewery:
             f"{self.postal_code}, {self.country}\n"
             f"Coordinates: ({self.latitude}, {self.longitude})\n"
             f"Phone: {self.phone}\n"
-            f"Website: {self.website_url}\n")
+            f"Website: {self.website_url}\n"
+        )
 
 
 def fetch_breweries(city: Optional[str] = None):
