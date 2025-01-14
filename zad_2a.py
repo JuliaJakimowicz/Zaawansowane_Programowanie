@@ -3,5 +3,5 @@ def wyswietl_imiona(imiona):
         print(imie)
 
 
-lista_imion = ['Julia', 'Dominika', 'Klementyna', 'Zuzia', 'Kasia']
+lista_imion = ["Julia", "Dominika", "Klementyna", "Zuzia", "Kasia"]
 wyswietl_imiona(lista_imion)
